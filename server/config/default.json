@@ -1,0 +1,8 @@
+{
+  "db": {
+    "host": "localhost",
+    "user": "chatbox",
+    "password": "chatbox123!",
+    "database": "chatbox"
+  }
+}
